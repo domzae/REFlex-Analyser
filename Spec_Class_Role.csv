@@ -1,0 +1,37 @@
+Class,Spec,Role
+Death Knight,Blood,Tank
+Death Knight,Frost,MeleeDPS
+Death Knight,Unholy,MeleeDPS
+Demon Hunter,Havoc,MeleeDPS
+Demon Hunter,Vengeance,Tank
+Druid,Balance,RangedDPS
+Druid,Feral,MeleeDPS
+Druid,Guardian,Tank
+Druid,Restoration,Healer
+Hunter,Beast Mastery,RangedDPS
+Hunter,Marksmanship,RangedDPS
+Hunter,Survival,MeleeDPS
+Mage,Arcane,RangedDPS
+Mage,Fire,RangedDPS
+Mage,Frost,RangedDPS
+Monk,Brewmaster,Tank
+Monk,Mistweaver,Healer
+Monk,Windwalker,MeleeDPS
+Paladin,Holy,Healer
+Paladin,Protection,Tank
+Paladin,Retribution,MeleeDPS
+Priest,Discipline,Healer
+Priest,Holy,Healer
+Priest,Shadow,RangedDPS
+Rogue,Assassination,MeleeDPS
+Rogue,Outlaw,MeleeDPS
+Rogue,Subtlety,MeleeDPS
+Shaman,Elemental,RangedDPS
+Shaman,Enhancement,MeleeDPS
+Shaman,Restoration,Healer
+Warlock,Affliction,RangedDPS
+Warlock,Demonology,RangedDPS
+Warlock,Destruction,RangedDPS
+Warrior,Arms,MeleeDPS
+Warrior,Fury,MeleeDPS
+Warrior,Protection,Tank
